@@ -42,7 +42,7 @@ This project analyzes retail sales data to uncover profit-draining product categ
 - Filters: Region, Product Type (Sub-Category), Season
 - Slow-Mover Detection: Products flagged using inventory turnover
 - Trend Charts: Seasonal patterns and profitability visuals
-- Correlation Plot: Inventory Days vs Profit Margin
+- Correlation Insight: Inventory Days vs Profit Margin - -0.25
 
 📊 Correlation Insight (Python)
 
