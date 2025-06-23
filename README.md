@@ -32,6 +32,7 @@ This project analyzes retail sales data to uncover profit-draining product categ
 ├── profit_margin_turnover.sql                 # SQL queries used for analysis
 ├── Inventory_turnover.csv                     # Exported turnover ratio data
 ├── Superstore.csv                             # Raw transactional dataset
+├── Sreenshot(128)                             # Inventory Days vs Profit Margin
 └── README.md                                  # This file
 
 📈 Dashboard Highlights
