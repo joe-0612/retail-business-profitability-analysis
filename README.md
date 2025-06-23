@@ -33,6 +33,7 @@ This project analyzes retail sales data to uncover profit-draining product categ
 ├── Inventory_turnover.csv                     # Exported turnover ratio data
 ├── Superstore.csv                             # Raw transactional dataset
 ├── Sreenshot(128)                             # Inventory Days vs Profit Margin
+├── Sreenshot(127)                             # Tableau Dashboard (Performance and Profitability Analysis)
 └── README.md                                  # This file
 
 📈 Dashboard Highlights
