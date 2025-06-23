@@ -30,9 +30,8 @@ This project analyzes retail sales data to uncover profit-draining product categ
 ├── Retail_Final_Report.pdf                    # 1–2 page final project summary
 ├── Retail_Profitability_Dashboard.twbx        # Tableau interactive dashboard
 ├── profit_margin_turnover.sql                 # SQL queries used for analysis
-├── Inventory_turnover.csv                     # Exported turnover ratio data
 ├── Superstore.csv                             # Raw transactional dataset
-└── README.md                                   # This file
+└── README.md                                  # This file
 
 📈 Dashboard Highlights
 
